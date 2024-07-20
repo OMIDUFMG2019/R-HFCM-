@@ -1,1 +1,1 @@
-# R-HFCM-
+Randomized High-order Fuzzy Cognitive Maps (R-HFCM)
