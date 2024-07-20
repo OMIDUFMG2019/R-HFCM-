@@ -12,8 +12,7 @@ Orang, O., de Lima e Silva, P. C., Silva, R., & Guimarães, F. G. (2022). Random
 
 ## Computational Experiments
 
-To use the R-HFCM model, upload your cleaned and pre-processed dataset, then run the Jupyter Notebook to visualize the results. Before running the model, it is necessary to install the pyFTS library using the command !pip3 install -U git+https://github.com/PYFTS/pyFTS. All computational experiments in this study were implemented using Python 3.6.12 with open-source packages such as Scikit-learn, Pandas, Numpy, and pyFTS.
-
+To use the R-HFCM model, upload your cleaned and pre-processed dataset, then run the Jupyter Notebook to visualize the results. Before running the model, it is necessary to install the pyFTS library using the command !pip3 install -U git+https://github.com/PYFTS/pyFTS. All computational experiments in this study were implemented using Python 3.6.12 with open-source packages such as Scikit-learn, Pandas, Numpy,Pytorch, Tensorflow and pyFTS.
 
 
 
