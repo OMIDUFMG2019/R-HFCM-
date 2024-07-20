@@ -5,7 +5,8 @@ This repository contains the code for a novel univariate time series (or energy)
 ## Objectives and contributions
 1) The code implements R-HFCM as a reservoir computing framework for the first time, integrating FTS, FCM, and ESN.
 2) This results in a hybrid fuzzy time series forecasting model that achieves time-effective learning through the ESN approach.
-3) The proposed method is cheaper, less complex, and more parsimonious compared to deep learning approaches.
+3) R-HFCM is cheaper and faster than conventional FCM-based forecasting method focusing on both aspects: 1) designing a new frame, and 2) speeding up the training phase.
+4) The proposed method is cheaper, less complex, and more parsimonious compared to deep learning approaches.
  
 ## References
 Orang, O., de Lima e Silva, P. C., Silva, R., & Guimarães, F. G. (2022). Randomized high order fuzzy cognitive maps as reservoir computing models: A first introduction and applications. Neurocomputing, 512, 153-177, DOI:10.1016/j.neucom.2022.09.030
